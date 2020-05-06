@@ -7,8 +7,8 @@
 * [Постановка задачи](task.md)
 * [Анализ решений](sol-find.md)
 * [Предлагаемое решение](solution.md)
-* [zapusk-tool](https://github.com/pavelvasev/zapusk-tool.md)
-* [zapusk-lact-libs](https://github.com/pavelvasev/zapusk-lact-libs.md)
+* [zapusk-tool](https://github.com/pavelvasev/zapusk-tool)
+* [zapusk-lact-libs](https://github.com/pavelvasev/zapusk-lact-libs)
 
 ## Copyright
 2020 Павел Васёв
