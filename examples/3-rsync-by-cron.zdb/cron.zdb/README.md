@@ -7,16 +7,18 @@
 * **runcmd**=echo alfa-beta-gamma, обязательный параметр
 
 Необязательные параметры:
-* minute=*
-* hour=*
-* day=*
-* month=*
-* day_of_week=* (0 это воскресение)
-* user=root
+* minute
+* hour
+* day
+* month
+* day_of_week
+* user
 
 либо как вариант
 
-* **cronline** - строчка для cron целиком
+* **cronline**=строчка для cron целиком
+
+Подробнее по параметрам см. [документацию cron](https://ru.wikipedia.org/wiki/Cron).
 
 ## Пример
 ```
