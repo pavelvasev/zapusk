@@ -29,3 +29,6 @@ $cronline
 TTT
 
 echo "generated cron file /etc/cron.d/zapusk_$global_name"
+echo "**************"
+cat "/etc/cron.d/zapusk_$global_name"
+echo "**************"
