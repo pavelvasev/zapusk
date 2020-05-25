@@ -17,7 +17,8 @@ day=4,10,25
 runcmd=rsync -avt ssh://myserver.com:/data/files2 /data-backups/myserver.com-files2
 ```
 
-* `zapusk apply` повлечет размещение в cron.d двух записей на запуск rsync-команд согласно их расписанию.
+* `zapusk apply` повлечет размещение в cron.d двух записей на запуск rsync-команд согласно их расписанию:
+
 ```
 using global_name=3-rsync-by-cron-do1
 generated cron file /etc/cron.d/zapusk_3-rsync-by-cron-do1
@@ -39,5 +40,5 @@ PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 
 * `zapusk destroy` уберет созданные ранее записи.
 
-Тип cron в этом примере встроенный, размещен в подкаталоге cron.zdb.
-Интересен тем, что в нем используется запуск шелл-скриптов.
+Этот пример использует тип cron, который размещен в подкаталоге cron.zdb.
+Он интересен тем, что в нем используется запуск шелл-скриптов.
