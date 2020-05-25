@@ -1,0 +1,1 @@
+Пояснения в [getting-started](../getting-started.md)
