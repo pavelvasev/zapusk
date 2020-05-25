@@ -19,7 +19,7 @@ day=4,10,25
 runcmd=rsync -avt ssh://myserver.com:/data/files2 /data-backups/myserver.com-files2
 ```
 
-* `zapusk apply` повлечет размещение в cron.d двух записей на запуск rsync-команд согласно их расписанию:
+* `zapusk apply` повлечет размещение в cron.d двух записей на запуск rsync-команд согласно их расписанию.
 * `zapusk destroy` уберет созданные записи.
 
 Этот пример использует тип cron, который размещен в подкаталоге cron.zdb.
