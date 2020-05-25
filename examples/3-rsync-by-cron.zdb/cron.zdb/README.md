@@ -7,8 +7,8 @@
 * **runcmd**=echo alfa-beta-gamma, обязательный параметр
 
 Необязательные параметры:
-* minute
-* hour
+* minute (по умолчанию 0)
+* hour (по умолчанию 2)
 * day
 * month
 * day_of_week
