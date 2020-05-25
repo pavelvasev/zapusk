@@ -4,11 +4,12 @@
 
 ## Параметры
 
-* **runcmd**=echo alfa-beta-gamma, обязательный параметр
+* **runcmd**=echo alfa-beta-gamma
+* **minute**=15
+* **hour**=*
 
 Необязательные параметры:
-* minute (по умолчанию 0)
-* hour (по умолчанию 2)
+
 * day
 * month
 * day_of_week
