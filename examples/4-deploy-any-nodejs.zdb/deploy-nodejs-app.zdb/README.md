@@ -21,3 +21,6 @@
 * [20-initd.ini](20-initd.ini) создается init.d скрипт.
 * [30-logrotate.ini](30-logrotate.ini) создается logrotate-конфиг.
 * [40-auto-start.ini](40-auto-start.ini) программа авто-запускается по команде apply.
+
+## Комментарий
+deploy-nodejs-app это такой полноценный мощный блок. В своей работе он использует тоже нетривиальные блоки типа generate-initd. Они скопированы сюда для демонстрации возможностей из кодов [zapsuk-lact-libs](https://github.com/pavelvasev/zapusk-lact-libs), в которой складываются рабочие блоки ЛайнАкт.
