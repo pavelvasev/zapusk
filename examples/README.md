@@ -1,6 +1,6 @@
 # Примеры
 
-* [1-lang.zdb](1-lang.zdb) - язык Zapusk и алгоритм его обработки.
+* [1-getting-started.zdb](1-getting-started.zdb) - язык Zapusk и алгоритм его работы.
 
 * [2-types.zdb](2-types.zdb) - создание своего типа в Zapusk.
 
