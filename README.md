@@ -6,7 +6,7 @@ Zapusk это язык и инструментарий для программи
 
 ## Документы
 
-* [Начало работы](examples/1-getting-started.zdb/README.md)
+* [Начало работы](examples/1-getting-started.zdb)
 * [Постановка задачи](1-task.md)
 * [Анализ решений](2-look-around.md)
 * [Zapusk спецификация 1](spec-1.md)
