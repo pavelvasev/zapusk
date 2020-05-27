@@ -52,7 +52,7 @@ Puppet/Ansible/Chef рецепты, не отслеживают того, что
 Петр Васильевич счастлив. На этом его роль заканчивается и он удаляется.
 
 ## Что дальше
+* [Примеры](examples)
 * [Отличие от других средств](2-look-around.md)
-* [Начало работы](examples/1-getting-started.zdb)
 * [zapusk-tool](https://github.com/pavelvasev/zapusk-tool)
 * [zapusk-lact-libs](https://github.com/pavelvasev/zapusk-lact-libs)
