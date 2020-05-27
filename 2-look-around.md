@@ -56,13 +56,13 @@ zdb-вызовов в [модули Ansible](https://docs.ansible.com/ansible/la
 Есть облачная версия, и есть стадия [plan](https://www.terraform.io/docs/commands/plan.html). Мощный [язык](https://www.terraform.io/docs/configuration/index.html), можно впечатляться.
 
 Получается, что в принципе Terraform это аналог Zapusk. Преимущества Zapusk в том, что:
-* Zapusk поддерживает произвольные команды. Terrafrom поддерживает [только apply и destroy](https://www.terraform.io/docs/commands/index.html).
-(не удалось найти возможности добавить свои команды). Хотя возможно у них какая-то другая логика для разных целей пользователя есть.
+* Zapusk поддерживает произвольные команды. Terrafrom поддерживает [только apply и destroy](https://www.terraform.io/docs/commands/index.html)
+(не удалось найти возможности добавить свои команды). Возможно, какая-то другая логика для разных целей пользователя есть.
 * [Спецификация Zapusk](https://github.com/pavelvasev/zapusk/blob/master/spec-1.md) проста,
 и каждому в принципе реально реализовать свой zapusk-tool, который сможет использовать существующие модули (lib).
 Это путь к свободе.
 
 # Прочие
 Kubernetes, SaltStack, Ansible, AWS CloudFormation, Puppet, Chef.
-Отличия хорошо описаны в [terraform vs other](https://www.terraform.io/intro/vs/chef-puppet.html).
+Отличия хорошо описаны в [terraform vs other](https://www.terraform.io/intro/vs/index.html).
 Собственно, мы с ним согласны.
