@@ -1,7 +1,5 @@
 # Начало работы
 
-## Пример 1
-
 Цель - создать простую запуск-программу, научиться ее запускать, познакомиться с терминами.
 
 1. Установите zapusk-tool согласно [инструкции](https://github.com/pavelvasev/zapusk-tool).
@@ -72,11 +70,11 @@ destroying alfa 5
 
 ## Другие примеры
 
-Приводятся в каталоге [examples](examples)
+Приводятся в каталоге [examples](../examples)
 
 ## Дополнительно
 
 Можно:
-* Ознакомиться со [спецификацей zapusk](spec-1.md)
+* Ознакомиться со [спецификацей zapusk](../../spec-1.md)
 * Скачать [zapusk-tool](https://github.com/pavelvasev/zapusk-tool)
 * Использовать [блоки ЛайнАкт](https://github.com/pavelvasev/zapusk-lact-libs)
