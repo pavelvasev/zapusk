@@ -18,5 +18,8 @@ Zapusk это язык и инструментарий для программи
 * [zapusk-lact-libs](https://github.com/pavelvasev/zapusk-lact-libs)
 
 ## Copyright
-2020 Павел Васёв
+2020 Павел Васёв, Михаил Бахтерев.
+
+ЛайнАкт (http://www.lact.ru).
+
 MIT license
