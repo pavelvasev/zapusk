@@ -258,6 +258,8 @@ fill=echo 123>{{somedir}}/file.txt
 [info]
 system-update=Установка системного ПО
 refresh=Обновление конфигурации
+[os]
+...
 ```
 Результат: 
 * при прохождении команды system-update будет напечано
